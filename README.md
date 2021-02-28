@@ -39,6 +39,8 @@
             color: steelblue;
         }
     </style>
+        
+</head>
 <body>
     <h3 style="font: weight 1000px; font-size: x-large; font-family: Arial; float:left;margin-left: 2%; margin-top:3%;"> <img src="./8figure.jpg" alt="" style="float:left; background-color:whitesmoke;">Shades
     </h3>
